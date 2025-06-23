@@ -1,4 +1,4 @@
-## CodeName - BoldWhiteWidow
+
 import random
 
 ## OPENING JOURNAL.TXT FILE IF IT DOES NOT EXIST
